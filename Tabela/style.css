@@ -1,0 +1,53 @@
+h1 {
+    color:rosybrown;
+    font-size: 40px;
+   
+
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.verde{
+    color: green;
+}
+
+#rosa{
+    color: pink;
+}
+
+body{
+    background-color: skyblue;
+    text-align: center;
+}
+img{
+    width: 100px;
+    border: 1px solid;
+    border-radius: 50%;
+    border: 1px solid;
+    
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+hr{
+    height: 5px;
+    background-color: black;
+    width: 500px;
+    margin: 40px auto;
+}
+ol{
+    font-size: 20px;
+    width: 300px;
+    margin: 0 auto;
+}
+li{
+    margin-bottom: 10px;
+}
+li p{
+    text-align: auto;
+    font-weight: 100px;
+}
